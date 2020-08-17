@@ -1,0 +1,13 @@
+D:\Trainings\.Net\CollaberaSampleApplicationWithTest\bin\Debug\netcoreapp3.1\CollaberaSampleApplicationWithTest.exe
+D:\Trainings\.Net\CollaberaSampleApplicationWithTest\bin\Debug\netcoreapp3.1\CollaberaSampleApplicationWithTest.deps.json
+D:\Trainings\.Net\CollaberaSampleApplicationWithTest\bin\Debug\netcoreapp3.1\CollaberaSampleApplicationWithTest.runtimeconfig.json
+D:\Trainings\.Net\CollaberaSampleApplicationWithTest\bin\Debug\netcoreapp3.1\CollaberaSampleApplicationWithTest.runtimeconfig.dev.json
+D:\Trainings\.Net\CollaberaSampleApplicationWithTest\bin\Debug\netcoreapp3.1\CollaberaSampleApplicationWithTest.dll
+D:\Trainings\.Net\CollaberaSampleApplicationWithTest\bin\Debug\netcoreapp3.1\CollaberaSampleApplicationWithTest.pdb
+D:\Trainings\.Net\CollaberaSampleApplicationWithTest\obj\Debug\netcoreapp3.1\CollaberaSampleApplicationWithTest.csprojAssemblyReference.cache
+D:\Trainings\.Net\CollaberaSampleApplicationWithTest\obj\Debug\netcoreapp3.1\CollaberaSampleApplicationWithTest.AssemblyInfoInputs.cache
+D:\Trainings\.Net\CollaberaSampleApplicationWithTest\obj\Debug\netcoreapp3.1\CollaberaSampleApplicationWithTest.AssemblyInfo.cs
+D:\Trainings\.Net\CollaberaSampleApplicationWithTest\obj\Debug\netcoreapp3.1\CollaberaSampleApplicationWithTest.csproj.CoreCompileInputs.cache
+D:\Trainings\.Net\CollaberaSampleApplicationWithTest\obj\Debug\netcoreapp3.1\CollaberaSampleApplicationWithTest.dll
+D:\Trainings\.Net\CollaberaSampleApplicationWithTest\obj\Debug\netcoreapp3.1\CollaberaSampleApplicationWithTest.pdb
+D:\Trainings\.Net\CollaberaSampleApplicationWithTest\obj\Debug\netcoreapp3.1\CollaberaSampleApplicationWithTest.genruntimeconfig.cache
