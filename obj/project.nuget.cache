@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n+zLEt1RUHLyehXShUA+ZiSEgdaHy8jbJRbXMoDIjW7r2O1s4e5ormDb4u/Qf+W7lb4hVQKTU2eVcv3pxPqhjw==",
+  "dgSpecHash": "w2AfxPPiCAtfmk5xzTpwPrF8RY2MAPo17HPfIXVTU20rfM0QwRopDvmUBRFxX/773mcwoMu5okkEHDGtxsJ3zg==",
   "success": true,
-  "projectFilePath": "D:\\Trainings\\.Net\\CollaberaSampleApplicationWithTest\\CollaberaSampleApplicationWithTest.csproj",
+  "projectFilePath": "D:\\Trainings\\.Net\\CollaberaSampleWithTest\\CollaberaSampleApplicationWithTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

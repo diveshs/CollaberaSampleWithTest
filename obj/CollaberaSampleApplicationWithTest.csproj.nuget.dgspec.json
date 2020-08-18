@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Trainings\\.Net\\CollaberaSampleApplicationWithTest\\CollaberaSampleApplicationWithTest.csproj": {}
+    "D:\\Trainings\\.Net\\CollaberaSampleWithTest\\CollaberaSampleApplicationWithTest.csproj": {}
   },
   "projects": {
-    "D:\\Trainings\\.Net\\CollaberaSampleApplicationWithTest\\CollaberaSampleApplicationWithTest.csproj": {
+    "D:\\Trainings\\.Net\\CollaberaSampleWithTest\\CollaberaSampleApplicationWithTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Trainings\\.Net\\CollaberaSampleApplicationWithTest\\CollaberaSampleApplicationWithTest.csproj",
+        "projectUniqueName": "D:\\Trainings\\.Net\\CollaberaSampleWithTest\\CollaberaSampleApplicationWithTest.csproj",
         "projectName": "CollaberaSampleApplicationWithTest",
-        "projectPath": "D:\\Trainings\\.Net\\CollaberaSampleApplicationWithTest\\CollaberaSampleApplicationWithTest.csproj",
+        "projectPath": "D:\\Trainings\\.Net\\CollaberaSampleWithTest\\CollaberaSampleApplicationWithTest.csproj",
         "packagesPath": "C:\\Users\\Divesh Singh\\.nuget\\packages\\",
-        "outputPath": "D:\\Trainings\\.Net\\CollaberaSampleApplicationWithTest\\obj\\",
+        "outputPath": "D:\\Trainings\\.Net\\CollaberaSampleWithTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Divesh Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",

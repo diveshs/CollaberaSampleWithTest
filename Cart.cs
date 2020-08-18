@@ -70,11 +70,4 @@ namespace CollaberaSampleApplicationWithTest
             return offerPrice;
         }
     }
-
-
-
-
-
-
-    
 }
